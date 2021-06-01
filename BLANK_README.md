@@ -166,7 +166,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@tbegush](https://twitter.com/tbegush) - tbegush@gmail.com
+Thomas Begush - [@tbegush](https://twitter.com/tbegush) - tbegush@gmail.com - 
 
 Project Link: [https://github.com/tbegush/git-it-done](https://github.com/tbegush/git-it-done)
 
