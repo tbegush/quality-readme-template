@@ -8,6 +8,7 @@
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
 *** github_username, repo_name, twitter_handle, email, project_title, project_description
+*** tbegush, git-it-done, @tbegush, tbegush@gmail.com, git-it-done, A search for github repositories!
 -->
 
 
@@ -36,10 +37,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">git-it-done</h3>
 
   <p align="center">
-    project_description
+    A search for github repositories!
     <br />
     <a href="https://github.com/tbegush/git-it-done"><strong>Explore the docs »</strong></a>
     <br />
@@ -89,7 +90,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+`tbegush`, `git-it-done`, `@tbegush`, `tbegush@gmail.com`, `git-it-done`, `A search for github repositories!`
 
 
 ### Built With
@@ -167,7 +168,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@tbegush](https://twitter.com/tbegush) - tbegush@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/tbegush/git-it-done)
+Project Link: [https://github.com/tbegush/git-it-done](https://github.com/tbegush/git-it-done)
 
 
 
@@ -184,15 +185,15 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/tbegush/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/tbegush/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/tbegush/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/tbegush/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/tbegush/repo.svg?style=for-the-badge
+[stars-url]: https://github.com/tbegush/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/tbegush/repo.svg?style=for-the-badge
+[issues-url]: https://github.com/tbegush/repo/issues
+[license-shield]: https://img.shields.io/github/license/tbegush/repo.svg?style=for-the-badge
+[license-url]: https://github.com/tbegush/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://linkedin.com/in/tbegush
