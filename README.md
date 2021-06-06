@@ -1,10 +1,10 @@
-# multiple-choice
+# Quality Readme
 
-Javascript, HTML, and CSS, for creating a javascript quiz.   User will be prompted for answers to multiple-choice questions.  Correct answers will result in a higher score, incorrect answers will result in a lower score.  The timer is the score.   When the score reaches zero, the game is over.
+Javascript, HTML, and CSS, for creating a SOMETHING.   User will be prompted for SOMETHING SOMETHING SOMETHING.  Then something will happen.  More details.   Etc!!!!!!!!
 
 ## Installation
 
-No installation necessary.   Simply load https://tbegush.github.io/multiple-choice/ in your favorite web browser.
+No installation necessary.   Simply load https://tbegush.github.io/whatever-page in your favorite web browser.
 
 ## ScreenShot
 
